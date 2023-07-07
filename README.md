@@ -19,6 +19,6 @@ Help us improve our representation by suggesting or making changes to avatars.
 Any changes that you think will help us in creating unbiased, clear, and concise YouTube shorts are more than welcome.
 
 
-All videos are generated in Quickvid.ai
+All videos are auto-generated in Quickvid.ai
 
 If you have any questions, you can DM me here: https://twitter.com/DannyHabibs
